@@ -17,3 +17,6 @@ p {
 	font-color: #000;
 	text-align: left;
 }
+.bla {
+	display: flex;
+}
